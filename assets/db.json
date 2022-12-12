@@ -1,0 +1,71 @@
+{
+  "santos": [
+    {
+      "nombre": "Call of Duty BO1",
+      "constelacion": "Belico",
+      "id": 1
+    },
+    {
+      "nombre": "FIFA 22",
+      "constelacion": "Deportes",
+      "id": 2
+    },
+    {
+      "nombre": "GTA V",
+      "constelacion": "Accion",
+      "id": 3
+    },
+    {
+      "nombre": "Spiderman",
+      "constelacion": "Aventura",
+      "id": 4
+    },
+    {
+      "nombre": "Call of Duty WW2",
+      "constelacion": "Belico",
+      "id": 5
+    },
+    {
+      "nombre": "FIFA 21",
+      "constelacion": "Deportes",
+      "id": 6
+    },
+    {
+      "nombre": "FIFA 20",
+      "constelacion": "Deportes",
+      "id": 7
+    },
+    {
+      "nombre": "Halo",
+      "constelacion": "Belico",
+      "id": 8
+    },
+    {
+      "nombre": "Minecraft",
+      "constelacion": "Aventura",
+      "id": 9
+    }
+  ],
+  "dioses": [
+    {
+      "id": 1,
+      "nombre": "Athena",
+      "de": "Tierra"
+    },
+    {
+      "id": 2,
+      "nombre": "Poseidón",
+      "de": "Mar"
+    },
+    {
+      "id": 3,
+      "nombre": "Hades",
+      "de": "Inframundo"
+    },
+    {
+      "id": 4,
+      "nombre": "Zeus",
+      "de": "Cielo"
+    }
+  ]
+}
